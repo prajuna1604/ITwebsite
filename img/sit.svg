@@ -1,0 +1,30 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_447_365)">
+<path vector-effect="non-scaling-stroke" d="M39.0601 9.96997C41.6501 9.96997 43.7501 7.86997 43.7501 5.27997C43.7501 2.68997 41.6501 0.589966 39.0601 0.589966C36.4701 0.589966 34.3701 2.68997 34.3701 5.27997C34.3701 7.86997 36.4701 9.96997 39.0601 9.96997Z" fill="#A100FF" stroke="white"/>
+<path vector-effect="non-scaling-stroke" d="M25.5201 21.9299C28.1101 21.9299 30.2101 19.8299 30.2101 17.2399C30.2101 14.6499 28.1101 12.5499 25.5201 12.5499C22.9301 12.5499 20.8301 14.6499 20.8301 17.2399C20.8301 19.8299 22.9301 21.9299 25.5201 21.9299Z" fill="#202020" stroke="white"/>
+<path vector-effect="non-scaling-stroke" d="M71.3902 15.83C73.9802 15.83 76.0802 13.73 76.0802 11.14C76.0802 8.54995 73.9802 6.44995 71.3902 6.44995C68.8002 6.44995 66.7002 8.54995 66.7002 11.14C66.7002 13.73 68.8002 15.83 71.3902 15.83Z" fill="#A100FF" stroke="white"/>
+<path vector-effect="non-scaling-stroke" d="M74.5894 52.38C77.1794 52.38 79.2794 50.28 79.2794 47.69C79.2794 45.1 77.1794 43 74.5894 43C71.9994 43 69.8994 45.1 69.8994 47.69C69.8994 50.28 71.9994 52.38 74.5894 52.38Z" fill="#202020" stroke="white"/>
+<path vector-effect="non-scaling-stroke" d="M55.2095 20.52C57.7995 20.52 59.8995 18.42 59.8995 15.83C59.8995 13.24 57.7995 11.14 55.2095 11.14C52.6195 11.14 50.5195 13.24 50.5195 15.83C50.5195 18.42 52.6195 20.52 55.2095 20.52Z" fill="#202020" stroke="white"/>
+<path vector-effect="non-scaling-stroke" d="M5.27984 15.83C7.86984 15.83 9.96984 13.73 9.96984 11.14C9.96984 8.54995 7.86984 6.44995 5.27984 6.44995C2.68984 6.44995 0.589844 8.54995 0.589844 11.14C0.589844 13.73 2.68984 15.83 5.27984 15.83Z" fill="#A100FF" stroke="white"/>
+<path vector-effect="non-scaling-stroke" d="M39.0596 9.96997V58.27" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path vector-effect="non-scaling-stroke" d="M55.21 37.1399V61.8999" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path vector-effect="non-scaling-stroke" d="M5.28027 16.47V35.97L23.1503 52.91V54.5" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path vector-effect="non-scaling-stroke" d="M13.9795 30.5701V36.7901L30.9195 52.9001V54.4901" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path vector-effect="non-scaling-stroke" d="M39.0603 47.8701L32.3203 41.4601V30.5601" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path vector-effect="non-scaling-stroke" d="M17.9902 39.98L25.5202 32.81V22.27" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path vector-effect="non-scaling-stroke" d="M55.2302 20.5299V29.4899L47.1602 37.1499V61.9099" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path vector-effect="non-scaling-stroke" d="M71.3897 16.47V33.31L55.2197 48.69" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path vector-effect="non-scaling-stroke" d="M68.77 35.8L63 29.74V24.51" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path vector-effect="non-scaling-stroke" d="M63 21.19V19" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path vector-effect="non-scaling-stroke" d="M32.3203 27.2999V24.4399" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path vector-effect="non-scaling-stroke" d="M17.9902 74.91V54.77H28.0802C36.6402 54.77 41.1302 59.9 42.8202 61.83L43.2002 62.26H50.9002C65.6102 62.26 77.5202 68.22 77.5202 74.28C77.5202 74.8 77.1702 74.91 76.8802 74.91H17.9902Z" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path vector-effect="non-scaling-stroke" d="M0.589844 79.41H17.9998V50.26H0.589844V79.41Z" fill="#202020" stroke="white"/>
+<path vector-effect="non-scaling-stroke" d="M43.2003 62.26L28.5303 62.29" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+<path vector-effect="non-scaling-stroke" d="M55.2197 56.98L64.6697 47.99H69.8997" stroke="white" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_447_365">
+<rect width="80" height="80" fill="white"/>
+</clipPath>
+</defs>
+</svg>
