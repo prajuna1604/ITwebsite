@@ -229,13 +229,11 @@ const tabButtons = document.querySelectorAll('.tab-button');
         }
       });
     });
+    // faqs
 const faqBtns = document.querySelectorAll(".faq-btn");
-
 faqBtns.forEach(btn => {
   btn.addEventListener("click", () => {
-
     const content = btn.nextElementSibling;
-
     // Close all other FAQ contents
     document.querySelectorAll(".faq-content").forEach(item => {
       if (item !== content) {
