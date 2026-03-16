@@ -246,5 +246,18 @@ faqBtns.forEach(btn => {
 
   });
 });
+
+document.querySelectorAll(".toggleBtn").forEach(btn=>{
+  btn.addEventListener("click",function(){
+
+    const card=this.closest(".group")
+    const extra=card.querySelector(".extra")
+    const icon=this.querySelector(".icon")
+
+    extra.classList.toggle("hidden")
+    icon.classList.toggle("rotate-45")
+
+  })
+})
     
 });
